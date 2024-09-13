@@ -59,6 +59,11 @@ En mi segundo año de formación, estoy emocionado por aprender y profundizar en
 
 ## 📫 ¡Conectemos!
 Puedes encontrarme en:
+**GitHub**
 [GitHub](https://github.com/tu-usuario) para colaborar en proyectos o seguir mi progreso.
+
+**LinkedIn**
 [LinkdIn](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
+
+**Email**
 [Email](mailto:jjonatan.gr@gmail.com) 
