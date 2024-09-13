@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Jonatan 😀
 
 Soy un apasionado del desarrollo web y la gestión de proyectos con experiencia en diversas herramientas y tecnologías. Actualmente, estoy cursando el segundo año del Curso de Formación de Grado Superior de desarrollo de aplicaciones web (DAW), donde he adquirido conocimientos en varias áreas, y estoy en proceso de aprender aún más.
 
