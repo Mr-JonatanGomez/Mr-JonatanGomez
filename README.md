@@ -58,7 +58,7 @@ En mi segundo año de formación, estoy emocionado por aprender y profundizar en
 ---
 
 ## 📫 ¡Conectemos!
-Puedes encontrarme en:
+
 **GitHub**
 [GitHub](https://github.com/tu-usuario) para colaborar en proyectos o seguir mi progreso.
 
