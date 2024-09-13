@@ -24,12 +24,14 @@ Soy un apasionado del desarrollo web y la gestión de proyectos con experiencia 
 - **IntelliJ IDEA**: Desarrollo en Java y otras tecnologías.
 - **VSCode**: Editor versátil para desarrollo web y aplicaciones.
 - **XAMPP**: Entorno de desarrollo local para PHP y bases de datos.
+- **DBeaver**: Cliente de bases de datos para administración y consultas SQL.
 
 ### Bases de Datos & SQL
 - **SQL & MySQL**: Manejo de bases de datos relacionales.
-- **DBeaver**: Cliente de bases de datos para administración y consultas SQL.
 
-### Desarrollo Web
+
+### Lenguajes
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 - **HTML5**: Estructuración y maquetación de páginas web.
 - **CSS3**: Estilización y diseño responsivo.
 
