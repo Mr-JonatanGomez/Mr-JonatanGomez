@@ -44,6 +44,13 @@ Soy un apasionado del desarrollo web y la gestión de proyectos con experiencia 
 - **StarUML**: Diseño de diagramas UML para modelado de software.
 
 ---
+## 💻 Proyectos
+### Tienda Back-End
+- **Un proyecto vacacional**:
+    Con la llegada del fin de curso, el profesor de Programación nos deó una pequeña tarea, una tienda con persistencia de datos en los carritos de los usuarios.
+  Actualmente, ademas de la conexion a base de datos mediante JDBC, hay menú de usuario o admin, con diferentes funciones para cada tipo, el proyecto no esta finalizado debido a la envergadura, pero esta próximo para estarlo en un breve espacio de tiempo.
+
+---
 
 ## 🚀 Tecnologías Próximas
 
