@@ -31,7 +31,7 @@ Soy un apasionado del desarrollo web y la gestión de proyectos con experiencia 
 
 
 ### Lenguajes
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+- ![Java]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="100" height="100"/>
 - **HTML5**: Estructuración y maquetación de páginas web.
 - **CSS3**: Estilización y diseño responsivo.
 
