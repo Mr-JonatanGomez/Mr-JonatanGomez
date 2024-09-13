@@ -23,14 +23,15 @@ Soy un apasionado del desarrollo web y la gestión de proyectos con experiencia 
 ### IDES & Editores
 - **IntelliJ IDEA**: Desarrollo en Java y otras tecnologías.
 - **VSCode**: Editor versátil para desarrollo web y aplicaciones.
-- **XAMPP**: Entorno de desarrollo local para PHP y bases de datos.
+
 - **DBeaver**: Cliente de bases de datos para administración y consultas SQL.
 
 ### Bases de Datos & SQL
 - **SQL & MySQL**: Manejo de bases de datos relacionales.
+- - **XAMPP**: Entorno de desarrollo local para PHP y bases de datos.
 
-<!-- LOGOS A IMPLEMENTAR -->
-<!-- Actual -->
+<!-- LOGOS A IMPLEMENTAR
+Actual 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="50" height="50" />
@@ -38,13 +39,30 @@ Soy un apasionado del desarrollo web y la gestión de proyectos con experiencia 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="50" height="50" />
 
-<!-- Futuro -->
+Futuro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
+DESCRIPCIONES
 
+Actual
+IntelliJ IDEA: Entorno de desarrollo integrado (IDE) para desarrollo en múltiples lenguajes, especialmente Java.
+VSCode: Editor de código fuente ligero con soporte para extensiones y depuración.
+DBeaver: Herramienta universal de administración de bases de datos con soporte para múltiples motores.
+MySQL: Sistema de gestión de bases de datos relacional para almacenar y administrar datos.
+GitHub: Plataforma para control de versiones y colaboración en proyectos utilizando Git.
+JSON: Formato de intercambio de datos ligero y basado en texto, utilizado comúnmente en APIs.
+Futuro
+PHP: Lenguaje de programación del lado del servidor utilizado para el desarrollo web dinámico.
+React: Librería de JavaScript para construir interfaces de usuario dinámicas y componentes reutilizables.
+Vue.js: Framework progresivo de JavaScript para construir interfaces de usuario modernas.
+Angular: Framework de desarrollo de aplicaciones web basado en TypeScript, diseñado por Google.
+JavaScript: Lenguaje de programación dinámico utilizado para desarrollo web interactivo en el navegador.
+
+
+-->
 
 ### Lenguajes
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
