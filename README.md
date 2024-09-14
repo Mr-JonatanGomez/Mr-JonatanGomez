@@ -21,7 +21,11 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 ## 🔧 Herramientas y Tecnologías Adquiridas
 
 ### IDES & Editores
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60" /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60" style="margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" style="margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60" style="margin-right: 10px;" />
 
 - **IntelliJ IDEA**: Desarrollo en Java y otras tecnologías.
 - **VSCode**: Editor versátil para desarrollo web y aplicaciones.
