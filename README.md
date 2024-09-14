@@ -121,11 +121,12 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-jjonatan.gr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjonatan.gr@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jjonatan.gr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjonatan.gr@gmail.com)
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Mr%20Jonatan%20Gomez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-JonatanGomez)
+[![GitHub Badge](https://img.shields.io/badge/-Mr%20Jonatan%20Gomez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-JonatanGomez)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jonatan%20Gomez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Jonatan%20Gomez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
+
 
 
 
