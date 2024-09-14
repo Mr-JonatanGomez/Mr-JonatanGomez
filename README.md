@@ -48,7 +48,7 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 - **Git**: Herramienta para gestionar cambios locales.
 - **GitHub**: Plataforma para control de versiones y colaboración en proyectos en la nube utilizando Git.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />
 
 ### Otras Herramientas
 
