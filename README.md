@@ -103,7 +103,7 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)[![LinkedIn Badge](https://img.shields.io/badge/-jonatan%20gomez-0077B5?style=for-the-badge)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
 
-<<!-
+<!--
 [![LinkedIn Badge](https://img.shields.io/badge/JONATAN%20GOMEZ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/) Aquí puedes encontrar mi perfil profesional, y conectar.
 
 [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" />](https://github.com/Mr-JonatanGomez) Aquí es donde encontraras, mis repos...pero ya habías llegado hasta aquí.
@@ -133,7 +133,7 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 [![GitHub Badge](https://img.shields.io/badge/-Mr%20Jonatan%20Gomez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-JonatanGomez)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Jonatan%20Gomez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
-->>
+-->
 
 
 
