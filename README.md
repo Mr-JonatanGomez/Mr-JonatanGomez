@@ -97,15 +97,9 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 ## 📫 ¡Conectemos!
 ### Puedes conectar conmigo clicando en los siguientes iconos.
  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/) Aquí puedes encontrar mi perfil profesional, y conectar.
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Mr-JonatanGomez) Aquí es donde encontraras, mis repos...pero ya habías llegado hasta aquí.
+[![LinkedIn Badge](https://img.shields.io/badge/JONATAN%20GOMEZ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/) Aquí puedes encontrar mi perfil profesional, y conectar.
 
 [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" />](https://github.com/Mr-JonatanGomez) Aquí es donde encontraras, mis repos...pero ya habías llegado hasta aquí.
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:jjonatan.gr@gmail.com) Enviandome un email.
 
@@ -118,6 +112,8 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 
 [![Email Badge](https://img.shields.io/badge/Email-jjonatan.gr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=lightgray)](mailto:jjonatan.gr@gmail.com)
 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-JONATAN%20GOMEZ-lightgray?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=0077B5)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
 
