@@ -140,7 +140,7 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:jjonatan.gr@gmail.com) Enviandome un email.
-[![Gmail Badge](https://badgen.net/badge/email/jjonatan.gr@gmail.com/D14836?icon=gmail&labelColor=white&color=white)](mailto:jjonatan.gr@gmail.com)
+[![Gmail Badge](https://badgen.net/badge/jjonatan.gr@gmail.com/D14836?icon=gmail&labelColor=white&color=white)](mailto:jjonatan.gr@gmail.com)
 
 
 
