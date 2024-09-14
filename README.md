@@ -21,68 +21,46 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 ## 🔧 Herramientas y Tecnologías Adquiridas
 
 ### IDES & Editores
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60" />
 
 - **IntelliJ IDEA**: Desarrollo en Java y otras tecnologías.
 - **VSCode**: Editor versátil para desarrollo web y aplicaciones.
-- **DBeaver**: Cliente de bases de datos para administración y consultas SQL.
+- **DBeaver**: Administración de Bases de Datos.
 
 ### Sistemas Gestores Bases de Datos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
+
 - **MySQL**: Manejo de bases de datos relacionales.
 - **XAMPP**: Entorno de desarrollo local para PHP y bases de datos.
 
-<!-- LOGOS A IMPLEMENTAR
-Actual 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Logo" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="60" height="60"/>
-#EA4335
 
-Futuro
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
-
-DESCRIPCIONES
-
-Actual
-IntelliJ IDEA: Entorno de desarrollo integrado (IDE) para desarrollo en múltiples lenguajes, especialmente Java.
-VSCode: Editor de código fuente ligero con soporte para extensiones y depuración.
-DBeaver: Herramienta universal de administración de bases de datos con soporte para múltiples motores.
-MySQL: Sistema de gestión de bases de datos relacional para almacenar y administrar datos.
-GitHub: Plataforma para control de versiones y colaboración en proyectos utilizando Git.
-JSON: Formato de intercambio de datos ligero y basado en texto, utilizado comúnmente en APIs.
-Futuro
-PHP: Lenguaje de programación del lado del servidor utilizado para el desarrollo web dinámico.
-React: Librería de JavaScript para construir interfaces de usuario dinámicas y componentes reutilizables.
-Vue.js: Framework progresivo de JavaScript para construir interfaces de usuario modernas.
-Angular: Framework de desarrollo de aplicaciones web basado en TypeScript, diseñado por Google.
-JavaScript: Lenguaje de programación dinámico utilizado para desarrollo web interactivo en el navegador.
-
-
--->
 
 ### Lenguajes
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="60" height="60"/>
-<img src="http://www.w3.org/2000/svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" />
+
 - **Java**: Lenguaje de programación orientado a objetos, utilizado para desarrollar aplicaciones robustas y multiplataforma.
 - **HTML5**: Estructuración y maquetación de páginas web.
 - **CSS3**: Estilización y diseño responsivo.
+- **SQL**: Lenguaje para administración de Bases de Datos
+
+### Sistema de Control de Versiones
+
+- **Git**: Herramienta para gestionar cambios locales.
+- **GitHub**: Plataforma para control de versiones y colaboración en proyectos en la nube utilizando Git.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />
+
+### Otras Herramientas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="60" height="60" />
+          
+- **StarUML**: Diseño de diagramas UML para modelado de software.
+- **JSON**: Formato de intercambio de datos ligero y basado en texto, utilizado comúnmente en APIs.
+- **Photoshop**: Editor de imagenes
 
 ### Certificaciones
 - **Project Management Portfolio**: Certificación en gestión de proyectos.
 - **Agile y Scrum**: Certificación en metodologías ágiles para desarrollo de proyectos.
-
-### Otras Herramientas
-- **GitHub**: Control de versiones y colaboración en proyectos.
-- **StarUML**: Diseño de diagramas UML para modelado de software.
 
 ---
 ## 💻 Proyectos
@@ -95,11 +73,21 @@ JavaScript: Lenguaje de programación dinámico utilizado para desarrollo web in
 
 ## 🚀 Tecnologías Próximas
 
-En mi segundo año de formación, estoy emocionado por aprender y profundizar en las siguientes tecnologías:
+En mi segundo año de formación, estoy emocionado por comenzar a aprender y profundizar en las siguientes tecnologías:
+### Lenguajes:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" />
 
 - **JavaScript**: Desarrollo web dinámico y aplicaciones frontend.
-- **PHP**: Backend para desarrollo de aplicaciones web.
-- **Vue.js, React, Angular**: Frameworks de JavaScript para la creación de interfaces interactivas.
+- **PHP**: Lenguaje de programación del lado del servidor para el desarrollo web dinámico.
+
+### Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60" />
+
+- **React**: Librería de JavaScript para construir interfaces de usuario dinámicas
+- **Vue.js**: Para la creación de interfaces interactivas con JavaScript.
+- **Angular**: Framework de desarrollo de aplicaciones web basado en TypeScript.
+
+### Otros
 - **Servicios en la nube**: Despliegue y gestión de aplicaciones en la nube.
 - **Configuración de servidores**: Preparación y despliegue de aplicaciones en entornos productivos.
 
