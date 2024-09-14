@@ -119,3 +119,6 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 
 [![Email Badge](https://img.shields.io/badge/Email-jjonatan.gr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=lightgray)](mailto:jjonatan.gr@gmail.com)
 
+[![Email Badge](https://img.shields.io/badge/Email-jjonatan.gr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=lightgray)](mailto:jjonatan.gr@gmail.com)
+
+
