@@ -96,11 +96,11 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 
 ## 📫 ¡Conectemos!
 
-**GitHub**
-[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" />](https://github.com/Mr-JonatanGomez)
+
+[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" />](https://github.com/Mr-JonatanGomez) **Aquí es donde encontraras, mis repos...pero ya has llegado hasta aquí.**
  
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
+](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/) **Aquí puedes encontrar mi perfil profesional.**
 
-**Email**
-[✉](mailto:jjonatan.gr@gmail.com) 
+
+[✉](mailto:jjonatan.gr@gmail.com) **Enviame un email.**
