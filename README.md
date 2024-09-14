@@ -55,9 +55,9 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="60" height="60" />
           
-- **StarUML**: Diseño de diagramas UML para modelado de software.
 - **JSON**: Formato de intercambio de datos ligero y basado en texto, utilizado comúnmente en APIs.
 - **Photoshop**: Editor de imagenes
+- **StarUML**: Diseño de diagramas UML para modelado de software.
 
 ### Certificaciones
 - **Project Management Portfolio**: Certificación en gestión de proyectos.
@@ -100,7 +100,8 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 [GitHub](https://github.com/tu-usuario) para colaborar en proyectos o seguir mi progreso.
 
 **LinkedIn**
-[LinkdIn](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
 
 **Email**
 [Email](mailto:jjonatan.gr@gmail.com) 
