@@ -120,7 +120,7 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 [![Email Badge](https://img.shields.io/badge/Email-jjonatan.gr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=lightgray)](mailto:jjonatan.gr@gmail.com)
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-JONATAN%20GOMEZ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=lightgray)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-JONATAN%20GOMEZ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
 
 
 
