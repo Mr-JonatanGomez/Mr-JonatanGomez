@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 -->
 # ¡Hola! Soy Jonatan 😀
 
-Soy un apasionado del desarrollo web y la gestión de proyectos con experiencia en diversas herramientas y tecnologías. Actualmente, estoy cursando el segundo año del Curso de Formación de Grado Superior de desarrollo de aplicaciones web (DAW), donde he adquirido conocimientos en varias áreas, y estoy en proceso de aprender aún más.
+Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con experiencia basada en mi aprendizaje durante el primer curso en la Universidad Europea de Madrid, en diversas herramientas y tecnologías. Actualmente, estoy cursando el segundo año del Curso de Formación de Grado Superior de desarrollo de aplicaciones web (DAW), donde he adquirido conocimientos en varias áreas, y estoy en proceso de aprender aún más.
 
 ---
 
 ## 🔧 Herramientas y Tecnologías Adquiridas
 
 ### IDES & Editores
+
 - **IntelliJ IDEA**: Desarrollo en Java y otras tecnologías.
 - **VSCode**: Editor versátil para desarrollo web y aplicaciones.
-
 - **DBeaver**: Cliente de bases de datos para administración y consultas SQL.
 
-### Bases de Datos & SQL
-- **SQL & MySQL**: Manejo de bases de datos relacionales.
-- - **XAMPP**: Entorno de desarrollo local para PHP y bases de datos.
+### Sistemas Gestores Bases de Datos
+- **MySQL**: Manejo de bases de datos relacionales.
+- **XAMPP**: Entorno de desarrollo local para PHP y bases de datos.
 
 <!-- LOGOS A IMPLEMENTAR
 Actual 
@@ -38,6 +38,9 @@ Actual
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
 
 Futuro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" />
@@ -66,6 +69,7 @@ JavaScript: Lenguaje de programación dinámico utilizado para desarrollo web in
 
 ### Lenguajes
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="60" height="60"/>
 
 - **Java**: Lenguaje de programación orientado a objetos, utilizado para desarrollar aplicaciones robustas y multiplataforma.
 - **HTML5**: Estructuración y maquetación de páginas web.
