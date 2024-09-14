@@ -97,7 +97,7 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 ## 📫 ¡Conectemos!
 
 **GitHub**
-[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />](https://github.com/tu-usuario)
+[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />](https://github.com/Mr-JonatanGomez)
 
 **LinkedIn**
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="60" height="60" />
