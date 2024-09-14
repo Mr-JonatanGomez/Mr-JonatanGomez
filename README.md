@@ -23,7 +23,6 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 ### IDES & Editores
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60" />
 
 - **IntelliJ IDEA**: Desarrollo en Java y otras tecnologías.
 - **VSCode**: Editor versátil para desarrollo web y aplicaciones.
@@ -38,7 +37,7 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 
 
 ### Lenguajes
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Logo" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" />
 
 - **Java**: Lenguaje de programación orientado a objetos, utilizado para desarrollar aplicaciones robustas y multiplataforma.
 - **HTML5**: Estructuración y maquetación de páginas web.
@@ -50,11 +49,11 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 - **Git**: Herramienta para gestionar cambios locales.
 - **GitHub**: Plataforma para control de versiones y colaboración en proyectos en la nube utilizando Git.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />
 
 ### Otras Herramientas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="60" height="60" />
           
 - **StarUML**: Diseño de diagramas UML para modelado de software.
 - **JSON**: Formato de intercambio de datos ligero y basado en texto, utilizado comúnmente en APIs.
@@ -77,13 +76,13 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 
 En mi segundo año de formación, estoy emocionado por comenzar a aprender y profundizar en las siguientes tecnologías:
 ### Lenguajes:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" />
 
 - **JavaScript**: Desarrollo web dinámico y aplicaciones frontend.
 - **PHP**: Lenguaje de programación del lado del servidor para el desarrollo web dinámico.
 
 ### Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60" />
 
 - **React**: Librería de JavaScript para construir interfaces de usuario dinámicas
 - **Vue.js**: Para la creación de interfaces interactivas con JavaScript.
