@@ -100,7 +100,7 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 [GitHub](https://github.com/tu-usuario) para colaborar en proyectos o seguir mi progreso.
 
 **LinkedIn**
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="60" height="60" />
 ](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/)
 
 **Email**
