@@ -104,3 +104,5 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 
 
 [✉](mailto:jjonatan.gr@gmail.com) **Enviame un email.**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
