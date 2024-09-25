@@ -23,7 +23,8 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 
 ## Gráfico de contribuciones
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mr-JonatanGomez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mr-JonatanGomez&theme=radical)
+
 
 
 ## Y no menos importante, Lenguajes más usados
