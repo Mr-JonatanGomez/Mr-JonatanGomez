@@ -23,6 +23,7 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 
 #### Y no menos importante, Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-JonatanGomez&layout=compact&theme=radical)
+
 No aparecen mis proyectos desarrollados en HTML y CSS de momento, ya que en Lenguaje de Marcas, no usabamos GitHub, ire subiendo paulatinamente, a un repo Clase Leng.Marcas
 
 ---
