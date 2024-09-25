@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 # ¡Hola! Soy Jonatan 😀
 
 Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con experiencia basada en mi aprendizaje durante el primer curso en la Universidad Europea de Madrid, en diversas herramientas y tecnologías. Actualmente, estoy cursando el segundo año del Curso de Formación de Grado Superior de desarrollo de aplicaciones web (DAW), donde he adquirido conocimientos en varias áreas, y estoy en proceso de aprender aún más.
+#### Aquí puedes ver mis estadisticas GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-JonatanGomez&show_icons=true&theme=radical)
+
+#### Mí Gráfico de contribuciones
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mr-JonatanGomez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Y no menos importante, Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-JonatanGomez&layout=compact&theme=radical)
 
 ---
 
@@ -115,8 +123,7 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 [![GitHub Badge](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717&link=https://github.com/Mr-JonatanGomez)](https://github.com/Mr-JonatanGomez)[![GitHub Badge](https://img.shields.io/badge/-mr%20jonatangomez-181717?style=for-the-badge)](https://github.com/Mr-JonatanGomez)
 
 
-#### Ver mis Stadisticas en GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-JonatanGomez&show_icons=true&theme=radical)
+
 
 
 
