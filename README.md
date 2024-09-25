@@ -19,15 +19,9 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-JonatanGomez&show_icons=true&theme=radical)
 
 #### Mí Gráfico de contribuciones
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mr-JonatanGomez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Gráfico de contribuciones
-
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mr-JonatanGomez&theme=radical)
 
-
-
-## Y no menos importante, Lenguajes más usados
+#### Y no menos importante, Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-JonatanGomez&layout=compact&theme=radical)
 
 ---
