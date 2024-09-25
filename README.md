@@ -115,6 +115,10 @@ En mi segundo año de formación, estoy emocionado por comenzar a aprender y pro
 [![GitHub Badge](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717&link=https://github.com/Mr-JonatanGomez)](https://github.com/Mr-JonatanGomez)[![GitHub Badge](https://img.shields.io/badge/-mr%20jonatangomez-181717?style=for-the-badge)](https://github.com/Mr-JonatanGomez)
 
 
+#### Ver mis Stadisticas en GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-JonatanGomez&show_icons=true&theme=radical)
+
+
 
 <!--
 [![LinkedIn Badge](https://img.shields.io/badge/JONATAN%20GOMEZ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/jos%C3%A9-jonatan-g%C3%B3mez-rodr%C3%ADguez-83b766282/) Aquí puedes encontrar mi perfil profesional, y conectar.
