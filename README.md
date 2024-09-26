@@ -71,14 +71,16 @@ No aparecen mis proyectos desarrollados en HTML y CSS de momento, ya que en Leng
 
 ### Certificaciones
 - **AWS Cloud Quest**: Cloud Practitioner
-
-https://www.credly.com/badges/f1ef5680-ef49-4685-8437-23b2ab72c002/public_url
+  
+    https://www.credly.com/badges/f1ef5680-ef49-4685-8437-23b2ab72c002/public_url
   
 - **Project Management Portfolio**: Certificación en gestión de proyectos.
-https://eu.badgr.com/public/assertions/HZoeBjSuSdqqCq2aMXUGnw
+
+    https://eu.badgr.com/public/assertions/HZoeBjSuSdqqCq2aMXUGnw
  
 - **Agile y Scrum**: Certificación en metodologías ágiles para desarrollo de proyectos.
-https://eu.badgr.com/public/assertions/s0MiAbyVTta4P701cAeGtg
+
+    https://eu.badgr.com/public/assertions/s0MiAbyVTta4P701cAeGtg
 
 ---
 ## 💻 Proyectos
