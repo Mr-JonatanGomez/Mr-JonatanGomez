@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con experiencia basada en mi aprendizaje durante el primer curso en la Universidad Europea de Madrid, en diversas herramientas y tecnologías. Actualmente, estoy cursando el segundo año del Curso de Formación de Grado Superior de desarrollo de aplicaciones web (DAW), donde he adquirido conocimientos en varias áreas, y estoy en proceso de aprender aún más.
 #### Aquí puedes ver mis estadisticas GitHub
 ![Profile views](https://komarev.com/ghpvc/?username=Mr-JonatanGomez&color=blue)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-JonatanGomez&show_icons=true&theme=radical)
 
 #### Mí Gráfico de contribuciones
