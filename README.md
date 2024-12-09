@@ -25,7 +25,7 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-JonatanGomez&layout=compact&theme=radical)
 
 #### Visitas a mi github
-![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=TU_USUARIO.TU_REPOSITORIO)
+![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=Mr-JonatanGomez)
 
 
 ---
