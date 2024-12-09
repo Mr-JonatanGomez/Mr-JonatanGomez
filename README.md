@@ -21,10 +21,12 @@ Soy un estudiante apasionado del desarrollo web y la gestión de proyectos, con 
 #### Mí Gráfico de contribuciones
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mr-JonatanGomez&theme=radical)
 
-#### Y no menos importante, Lenguajes más usados
+#### Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-JonatanGomez&layout=compact&theme=radical)
 
-Paulatinamente crecerá JavaScript, PHP, HTML, y CSS que seran los más utilizados en este segundo año de DAW
+#### Visitas a mi github
+![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=TU_USUARIO.TU_REPOSITORIO)
+
 
 ---
 
